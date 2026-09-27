@@ -1393,5 +1393,10 @@
   "botAccess.grants.noMatches": "Aucun outil ne correspond à cette recherche.",
   "botAccess.grants.verbHint": "Sélectionner tous les outils de cette classe",
   "connectors.grants.limited": "Bots avec des outils limités : {count}",
-  "connectors.grants.more": " +{count} de plus"
+  "connectors.grants.more": " +{count} de plus",
+  "botAccess.grants.verb.read": "Lire",
+  "botAccess.grants.verb.draft": "Brouillon",
+  "botAccess.grants.verb.send": "Envoyer",
+  "botAccess.grants.verb.modify": "Modifier",
+  "botAccess.grants.verb.delete": "Supprimer"
 }
