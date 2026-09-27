@@ -1395,5 +1395,10 @@
   "botAccess.grants.noMatches": "検索に一致するツールはありません。",
   "botAccess.grants.verbHint": "この分類のツールをすべて選択",
   "connectors.grants.limited": "ツールが制限されているボット: {count}",
-  "connectors.grants.more": " +{count} 件"
+  "connectors.grants.more": " +{count} 件",
+  "botAccess.grants.verb.read": "読み取り",
+  "botAccess.grants.verb.draft": "下書き",
+  "botAccess.grants.verb.send": "送信",
+  "botAccess.grants.verb.modify": "変更",
+  "botAccess.grants.verb.delete": "削除"
 }

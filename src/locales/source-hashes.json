@@ -1414,7 +1414,12 @@
       "botAccess.grants.noMatches": "c2fe01c46a2baee4592c2719bf6c92a839a21a4c829b1c48ad22b3216161925b",
       "botAccess.grants.verbHint": "eff2df1a73a4de4ab9999cc746fb96d69400807a29af54840d51500a959fa257",
       "connectors.grants.limited": "e83d55669994029b942e5ab33607dab85a72227badd0ee08defaf49748c61cf8",
-      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92"
+      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     },
     "es": {
       "noEngines.title": "af88855a5f80377de709995229ba3907df9e8fb3b940fbf7c0d9cbe6eea54afe",
@@ -2811,7 +2816,12 @@
       "botAccess.grants.noMatches": "c2fe01c46a2baee4592c2719bf6c92a839a21a4c829b1c48ad22b3216161925b",
       "botAccess.grants.verbHint": "eff2df1a73a4de4ab9999cc746fb96d69400807a29af54840d51500a959fa257",
       "connectors.grants.limited": "e83d55669994029b942e5ab33607dab85a72227badd0ee08defaf49748c61cf8",
-      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92"
+      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     },
     "fr": {
       "noEngines.title": "af88855a5f80377de709995229ba3907df9e8fb3b940fbf7c0d9cbe6eea54afe",
@@ -4208,7 +4218,12 @@
       "botAccess.grants.noMatches": "c2fe01c46a2baee4592c2719bf6c92a839a21a4c829b1c48ad22b3216161925b",
       "botAccess.grants.verbHint": "eff2df1a73a4de4ab9999cc746fb96d69400807a29af54840d51500a959fa257",
       "connectors.grants.limited": "e83d55669994029b942e5ab33607dab85a72227badd0ee08defaf49748c61cf8",
-      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92"
+      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     },
     "hi": {
       "noEngines.title": "af88855a5f80377de709995229ba3907df9e8fb3b940fbf7c0d9cbe6eea54afe",
@@ -5605,7 +5620,12 @@
       "botAccess.grants.noMatches": "c2fe01c46a2baee4592c2719bf6c92a839a21a4c829b1c48ad22b3216161925b",
       "botAccess.grants.verbHint": "eff2df1a73a4de4ab9999cc746fb96d69400807a29af54840d51500a959fa257",
       "connectors.grants.limited": "e83d55669994029b942e5ab33607dab85a72227badd0ee08defaf49748c61cf8",
-      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92"
+      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     },
     "ja": {
       "noEngines.title": "af88855a5f80377de709995229ba3907df9e8fb3b940fbf7c0d9cbe6eea54afe",
@@ -7004,7 +7024,12 @@
       "botAccess.grants.noMatches": "c2fe01c46a2baee4592c2719bf6c92a839a21a4c829b1c48ad22b3216161925b",
       "botAccess.grants.verbHint": "eff2df1a73a4de4ab9999cc746fb96d69400807a29af54840d51500a959fa257",
       "connectors.grants.limited": "e83d55669994029b942e5ab33607dab85a72227badd0ee08defaf49748c61cf8",
-      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92"
+      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     },
     "pt-br": {
       "noEngines.title": "af88855a5f80377de709995229ba3907df9e8fb3b940fbf7c0d9cbe6eea54afe",
@@ -8415,7 +8440,12 @@
       "botAccess.grants.noMatches": "c2fe01c46a2baee4592c2719bf6c92a839a21a4c829b1c48ad22b3216161925b",
       "botAccess.grants.verbHint": "eff2df1a73a4de4ab9999cc746fb96d69400807a29af54840d51500a959fa257",
       "connectors.grants.limited": "e83d55669994029b942e5ab33607dab85a72227badd0ee08defaf49748c61cf8",
-      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92"
+      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     },
     "zh": {
       "botOverview.empty": "ddacb6ce3dc2e32a751be47b995bf9598d04b21082d2cc07c87defb680d86a22",
@@ -11223,7 +11253,14 @@
       "botPermissions.askBeforeContactOn": "61164d47cf32683e1558867d0937e2aced1c8c42aa9f1b18086581de55bc6246",
       "botPermissions.askBeforeContactOff": "8c759157e09bb791bb8ae5ca96788d9fe281d887ce47af0da2215bac10820a01",
       "botPermissions.approvalLevelDraftHint": "2011b5839387b3262709c530c56ba387fa0e0e99d049b883bcf0031e18b50d38",
-      "botPermissions.approvalLevelHint": "919e86ed4e3012fb0b44a8d5f74a6f98148acda36075922614b8eb5194346580"
+      "botPermissions.approvalLevelHint": "919e86ed4e3012fb0b44a8d5f74a6f98148acda36075922614b8eb5194346580",
+      "botSettings.proposal.chief": "0536c0d170d14ce4caaa95fccd438625fd18ab9f0f0b92cee3621e4893a1803d",
+      "botSettings.proposal.owner": "36386da4d2df7091c9796dd107b8caad8b1512d5bf32f01e21e3a61e617b3f73",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     },
     "zh-tw": {
       "noEngines.title": "af88855a5f80377de709995229ba3907df9e8fb3b940fbf7c0d9cbe6eea54afe",
@@ -13144,7 +13181,12 @@
       "botAccess.grants.noMatches": "c2fe01c46a2baee4592c2719bf6c92a839a21a4c829b1c48ad22b3216161925b",
       "botAccess.grants.verbHint": "eff2df1a73a4de4ab9999cc746fb96d69400807a29af54840d51500a959fa257",
       "connectors.grants.limited": "e83d55669994029b942e5ab33607dab85a72227badd0ee08defaf49748c61cf8",
-      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92"
+      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     },
     "uk": {
       "noEngines.title": "af88855a5f80377de709995229ba3907df9e8fb3b940fbf7c0d9cbe6eea54afe",
@@ -15102,7 +15144,12 @@
       "botAccess.grants.noMatches": "c2fe01c46a2baee4592c2719bf6c92a839a21a4c829b1c48ad22b3216161925b",
       "botAccess.grants.verbHint": "eff2df1a73a4de4ab9999cc746fb96d69400807a29af54840d51500a959fa257",
       "connectors.grants.limited": "e83d55669994029b942e5ab33607dab85a72227badd0ee08defaf49748c61cf8",
-      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92"
+      "connectors.grants.more": "bdc66b5347d2d9ccedcb5871a3c39fa99a2bd1b64ac6391ecd6d6015217fcf92",
+      "botAccess.grants.verb.read": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "botAccess.grants.verb.draft": "ebf12ef47cf575b3ba9a3cc019c5310146fdac88f6d1be6618d6e91158c2f174",
+      "botAccess.grants.verb.send": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "botAccess.grants.verb.modify": "d94eaf69438863a8d5ef755e74e6840048386eefbf0e34f39004d2e9c9157778",
+      "botAccess.grants.verb.delete": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8"
     }
   }
 }

@@ -2804,5 +2804,12 @@
   "botPermissions.askBeforeContactOn": "This bot will stop and ask before it reaches out to another bot.",
   "botPermissions.askBeforeContactOff": "Let this bot talk to teammates on its own, without a confirmation step.",
   "botPermissions.approvalLevelDraftHint": "Default for the new bot's threads, routines and delegated work.",
-  "botPermissions.approvalLevelHint": "Default for new threads, routines and delegated work. When enabling Full access, you can also apply it to every existing thread."
+  "botPermissions.approvalLevelHint": "Default for new threads, routines and delegated work. When enabling Full access, you can also apply it to every existing thread.",
+  "botSettings.proposal.chief": "Chief-proposable — arrives as a card you confirm.",
+  "botSettings.proposal.owner": "Owner-only — never arrives as a proposal.",
+  "botAccess.grants.verb.read": "Read",
+  "botAccess.grants.verb.draft": "Draft",
+  "botAccess.grants.verb.send": "Send",
+  "botAccess.grants.verb.modify": "Modify",
+  "botAccess.grants.verb.delete": "Delete"
 }

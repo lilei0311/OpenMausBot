@@ -2804,5 +2804,12 @@
   "botPermissions.askBeforeContactOn": "此机器人会在联系其他机器人之前停下来询问。",
   "botPermissions.askBeforeContactOff": "让此机器人自行与队友交谈，无需确认步骤。",
   "botPermissions.approvalLevelDraftHint": "新机器人的线程、例程和委派工作的默认值。",
-  "botPermissions.approvalLevelHint": "新线程、例程和委派工作的默认值。启用完全访问时，你也可以将其应用到所有现有线程。"
+  "botPermissions.approvalLevelHint": "新线程、例程和委派工作的默认值。启用完全访问时，你也可以将其应用到所有现有线程。",
+  "botSettings.proposal.chief": "可设为总协调——以卡片形式到达，需要你确认。",
+  "botSettings.proposal.owner": "仅所有者——从不以提案形式到达。",
+  "botAccess.grants.verb.read": "读取",
+  "botAccess.grants.verb.draft": "起草",
+  "botAccess.grants.verb.send": "发送",
+  "botAccess.grants.verb.modify": "修改",
+  "botAccess.grants.verb.delete": "删除"
 }
